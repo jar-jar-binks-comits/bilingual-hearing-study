@@ -1,0 +1,35 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Data (exclude participant data for privacy)
+data/raw/*.csv
+data/processed/*.csv
+
+# Keep directory structure
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Logs
+*.log
+experiment.log
+
+# macOS
+.DS_Store
+
+# PsychoPy
+*.psydat
+.psychopy3/
+
+# IDE
+.vscode/
+.idea/
+*.swp
