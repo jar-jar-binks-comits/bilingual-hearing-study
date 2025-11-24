@@ -219,15 +219,6 @@ pip install psychopy
 mkdir -p data/raw data/processed data/audio
 ```
 
-## Citations
-
-This experimental design is based on:
-
-Capellini, E. (2025). *Can Managing Two Languages Affect How Well You Hear? A Study of Auditory Thresholds After Bilingual and Monolingual Listening.* MSc Thesis, Carl von Ossietzky University Oldenburg.
-
-Adaptive staircase methodology:
-Levitt, H. (1971). Transformed up-down methods in psychoacoustics. *The Journal of the Acoustical Society of America, 49*(2B), 467-477.
-
 ## Author
 
 Ella Capellini  
