@@ -27,7 +27,7 @@ This study examines whether managing two languages (bilingual listening) tempora
 ### 1. Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/jar-jar-binks-comits/bilingual-hearing-study.git
 cd bilingual-hearing-study
 ```
 
@@ -222,8 +222,7 @@ mkdir -p data/raw data/processed data/audio
 ## Author
 
 Ella Capellini  
-MSc Neuroscience, Carl von Ossietzky University Oldenburg  
-e.capellini@uni-oldenburg.de
+ecapellini.02@gmail.com
 
 ## License
 
